@@ -1,8 +1,12 @@
 # weather_app
 
-A new Flutter project.
-
+The program was built using Dart, flutter, and API. The weather condition, temperature, maximum and minimum temperature value, and the name of the weather condition are displayed. It consists of three screens: the start screen, the city name entry screen, and the weather display screen Stay connected  And get the weather.
+# Language being utilized
+- dart
+- flutter
+- Api
 ## Getting Started
+  
 
 This project is a starting point for a Flutter application.
 
